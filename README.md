@@ -7,4 +7,4 @@
 #### Here is an image that shows the people of 12th century France playing the orignal version of tennis.
 ![Alt text](https://www.pariszigzag.fr/wp-content/uploads/2022/02/jeu-de-paume-sport-terrain-courte-longue-gravure-raquette-tennis-vogue-eteuf-luxembourg-jardin-serment-histoire-paris-zigzag-romane-fraysse.jpg "Orginal Game of Tennis")
 #### Here is a link to a more detailed timeline of the evolution of tennis. 
-[example link](https://www.tennistheme.com/tennishistory.html)
+[detailed timeline of the evolution of tennis](https://www.tennistheme.com/tennishistory.html)
